@@ -110,6 +110,38 @@
    "due": "2026-11-17T20:55:00+05:30",
    "image": "media/2026-11-17_story_pm.jpg",
    "status": "pending"
+  },
+  {
+   "id": "2026-11-18_story_am",
+   "type": "story",
+   "due": "2026-11-18T08:55:00+05:30",
+   "image": "media/2026-11-18_story_am.jpg",
+   "status": "pending"
+  },
+  {
+   "id": "2026-11-18_3-rules-first-trade",
+   "type": "reel",
+   "due": "2026-11-18T12:55:00+05:30",
+   "video": "media/2026-11-18_3-rules-first-trade.mp4",
+   "cover": "media/2026-11-18_3-rules-first-trade_cover.jpg",
+   "caption": "Agar main zero se trading shuru karta, to pehle ye 3 rules set karta 👇\n\n1️⃣ Paper trade pehle: asli paisa lagaye bina practice\n2️⃣ Har trade mein chhota, fixed risk: ₹50,000 ka 1% = ₹500. 5 galat trades ke baad bhi ₹47,500 bache\n3️⃣ Trade journal: kyun liya, kahan exit, kya seekha\n\nKaunsa rule aap already follow karte ho? Comment karo.\n\nSave karo aur follow karo.\n\nIllustrative numbers. Charts are illustrations, not real price data. Educational content only, not financial advice.\n\n#trading #tradingforbeginners #riskmanagement #stockmarketindia #sharemarket #tradingpsychology #papertrading #hinglish #moneytips #tradingbuddy",
+   "status": "pending"
+  },
+  {
+   "id": "2026-11-18_read-a-candle",
+   "type": "reel",
+   "due": "2026-11-18T19:55:00+05:30",
+   "video": "media/2026-11-18_read-a-candle.mp4",
+   "cover": "media/2026-11-18_read-a-candle_cover.jpg",
+   "caption": "Ye candle padh sakte ho? 3 second ⏱️\n\n• Body = open se close\n• Green: price open se UPAR band hua (₹100 → ₹110)\n• Red: open se NEECHE band hua\n• Upar ki wick = high, neeche ki wick = low\n• Bahut saari candles saath = trend\n\nAapka jawab sahi tha? Comment karo 👇\n\nSave karo aur follow karo.\n\nCharts are illustrations, not real price data. Educational content only, not financial advice.\n\n#candlestick #technicalanalysis #stockmarketindia #sharemarket #tradingforbeginners #chartpatterns #trading #hinglish #financialliteracy #tradingbuddy",
+   "status": "pending"
+  },
+  {
+   "id": "2026-11-18_story_pm",
+   "type": "story",
+   "due": "2026-11-18T20:55:00+05:30",
+   "image": "media/2026-11-18_story_pm.jpg",
+   "status": "pending"
   }
  ]
 }
