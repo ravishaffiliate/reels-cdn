@@ -1,147 +1,150 @@
 {
- "base_url": "https://raw.githubusercontent.com/ravishaffiliate/reels-cdn/main/",
- "ig_user_id": "17841462025368766",
- "items": [
-  {
-   "id": "2026-11-15_story_am",
-   "type": "story",
-   "due": "2026-11-15T08:55:00+05:30",
-   "image": "media/2026-11-15_story_am.jpg",
-   "status": "posted",
-   "ig_media_id": "18134681563691002",
-   "permalink": "https://www.instagram.com/stories/truly.friendly/4030668534580263129",
-   "posted_at": "2026-11-15T08:56:02+05:30"
-  },
-  {
-   "id": "2026-11-15_3-beginner-mistakes",
-   "type": "reel",
-   "due": "2026-11-15T12:55:00+05:30",
-   "video": "media/2026-11-15_3-beginner-mistakes.mp4",
-   "cover": "media/2026-11-15_3-beginner-mistakes_cover.jpg",
-   "caption": "If I had to start investing from zero, I'd avoid these 3 mistakes first 👇\n\n1️⃣ Investing money you'll need soon → build a safety fund first\n2️⃣ Putting everything in one stock → spread the risk\n3️⃣ Panic selling on a red day → make a plan before you buy\n\nWhich one have you made? Tell me in the comments.\n\nSave this for later and follow for one money rule a day.\n\nEducational content only, not financial advice.\n\n#investingforbeginners #stockmarket #stockmarketindia #personalfinance #financialliteracy #investing #moneytips #indexfunds #riskmanagement #tradingbuddy",
-   "status": "posted",
-   "ig_media_id": "18150827056566988",
-   "permalink": "https://www.instagram.com/reel/DfwPdJNtJ8r/",
-   "posted_at": "2026-11-15T12:57:16+05:30"
-  },
-  {
-   "id": "2026-11-15_carousel_dictionary",
-   "type": "carousel",
-   "due": "2026-11-15T17:55:00+05:30",
-   "images": [
-    "media/2026-11-15_c01.jpg",
-    "media/2026-11-15_c02.jpg",
-    "media/2026-11-15_c03.jpg",
-    "media/2026-11-15_c04.jpg",
-    "media/2026-11-15_c05.jpg",
-    "media/2026-11-15_c06.jpg",
-    "media/2026-11-15_c07.jpg"
-   ],
-   "caption": "10 words that make the stock market make sense 📚\n\nShare • Index • Nifty 50 & Sensex • Demat • Broker • IPO • Dividend • P/E ratio • Bull vs Bear • SIP\n\nSwipe through, then save this so you can come back to it.\n\nWhich word was new for you? Tell me in the comments 👇\n\nFollow for one money rule a day.\n\nEducational content only, not financial advice.\n\n#stockmarketindia #stockmarket #investingforbeginners #financialliteracy #personalfinance #sharemarket #nifty50 #sensex #moneytips #tradingbuddy",
-   "status": "posted",
-   "ig_media_id": "18133783982511497",
-   "permalink": "https://www.instagram.com/p/Dfwx0CGoah9/",
-   "posted_at": "2026-11-15T17:56:54+05:30"
-  },
-  {
-   "id": "2026-11-15_sip-vs-lump-sum",
-   "type": "reel",
-   "due": "2026-11-15T19:55:00+05:30",
-   "video": "media/2026-11-15_sip-vs-lump-sum.mp4",
-   "cover": "media/2026-11-15_sip-vs-lump-sum_cover.jpg",
-   "caption": "₹12,000: invest it all at once, or ₹4,000 a month for 3 months? 🤔\n\nLump sum at ₹100 → 120 units\nSIP when the price goes ₹100 → ₹80 → ₹100 → 40 + 50 + 40 = 130 units\nSIP when the price goes ₹100 → ₹120 → ₹150 → 40 + 33.3 + 26.7 = 100 units\n\nThat's rupee cost averaging: dips help a SIP, steady rises help a lump sum. Neither is always better.\n\nWhich would you pick? Comment SIP or lump sum 👇\n\nFollow for one money rule a day.\n\nIllustrative numbers. Educational content only, not financial advice.\n\n#sip #mutualfunds #investingforbeginners #stockmarketindia #personalfinance #financialliteracy #moneytips #rupeecostaveraging #investing #tradingbuddy",
-   "status": "posted",
-   "ig_media_id": "17920706370468722",
-   "permalink": "https://www.instagram.com/reel/Dfw_ePTtCaI/",
-   "posted_at": "2026-11-15T19:56:49+05:30"
-  },
-  {
-   "id": "2026-11-15_story_pm",
-   "type": "story",
-   "due": "2026-11-15T20:55:00+05:30",
-   "image": "media/2026-11-15_story_pm.jpg",
-   "status": "posted",
-   "ig_media_id": "18112507796235110",
-   "permalink": "https://www.instagram.com/stories/truly.friendly/4031030842428278958",
-   "posted_at": "2026-11-15T20:55:53+05:30"
-  },
-  {
-   "id": "2026-11-17_story_am",
-   "type": "story",
-   "due": "2026-11-17T08:55:00+05:30",
-   "image": "media/2026-11-17_story_am.jpg",
-   "status": "pending"
-  },
-  {
-   "id": "2026-11-17_crude-oil-stocks",
-   "type": "reel",
-   "due": "2026-11-17T12:55:00+05:30",
-   "video": "media/2026-11-17_crude-oil-stocks.mp4",
-   "cover": "media/2026-11-17_crude-oil-stocks_cover.jpg",
-   "caption": "India apna 85% se zyada crude oil import karta hai 🛢️ Isliye tel ka daam aapke stocks ko hilata hai.\n\n• Crude mehnga → import bill ↑ → zyada dollar chahiye\n• Rupee kamzor → imports mehnge, inflation ka risk\n• Airlines, paints, oil companies: laagat crude se judi\n• Crude sasta → inhi sectors ki laagat kam ho sakti hai\n\nPar stocks sirf tel se nahi chalte: earnings, interest rates aur global mood bhi matter karte hain.\n\nSave karo aur roz ek money rule ke liye follow karo.\n\nCharts are illustrations, not real price data. Educational content only, not financial advice.\n\n#crudeoil #stockmarketindia #sharemarket #rupee #inflation #investingforbeginners #financialliteracy #hinglish #moneytips #tradingbuddy",
-   "status": "pending"
-  },
-  {
-   "id": "2026-11-17_carousel_loss-recovery",
-   "type": "carousel",
-   "due": "2026-11-17T17:55:00+05:30",
-   "images": [
-    "media/2026-11-17_c01.jpg",
-    "media/2026-11-17_c02.jpg",
-    "media/2026-11-17_c03.jpg",
-    "media/2026-11-17_c04.jpg",
-    "media/2026-11-17_c05.jpg"
-   ],
-   "caption": "Bada loss wapas laana itna mushkil kyun hai? 📉\n\n−10% → +11.1% chahiye\n−25% → +33.3%\n−50% → +100%\n−75% → +300%\n−90% → +900%\n\nFormula: loss ÷ (100 − loss). Isliye pehle downside protect karo.\n\nKaunsa number shock kar gaya? Comment karo 👇\n\nSave karo aur roz ek money rule ke liye follow karo.\n\nEducational content only, not financial advice.\n\n#riskmanagement #stockmarketindia #sharemarket #trading #investingforbeginners #financialliteracy #tradingpsychology #hinglish #moneytips #tradingbuddy",
-   "status": "pending"
-  },
-  {
-   "id": "2026-11-17_stop-loss-100",
-   "type": "reel",
-   "due": "2026-11-17T19:55:00+05:30",
-   "video": "media/2026-11-17_stop-loss-100.mp4",
-   "cover": "media/2026-11-17_stop-loss-100_cover.jpg",
-   "caption": "Aapne stock ₹100 par khareeda. Galat nikla, to exit kahan karoge? 🤔\n\nYahi hai stop-loss: ek exit price jo aap kharidne se PEHLE tay karte ho.\n\n• Stop ₹95 → risk ₹5 per share = 5%\n• Bina stop: ₹100 → ₹70 = −30%\n• ₹70 se ₹100 wapas aane ke liye ~43% gain chahiye\n\nPehle exit, phir entry.\n\nAap stop-loss use karte ho? Comment karo 👇 Aur follow karo.\n\nIllustrative numbers, no trade calls. Charts are illustrations, not real price data. Educational content only, not financial advice.\n\n#stoploss #trading #riskmanagement #stockmarketindia #sharemarket #tradingforbeginners #tradingpsychology #hinglish #moneytips #tradingbuddy",
-   "status": "pending"
-  },
-  {
-   "id": "2026-11-17_story_pm",
-   "type": "story",
-   "due": "2026-11-17T20:55:00+05:30",
-   "image": "media/2026-11-17_story_pm.jpg",
-   "status": "pending"
-  },
-  {
-   "id": "2026-11-18_story_am",
-   "type": "story",
-   "due": "2026-11-18T08:55:00+05:30",
-   "image": "media/2026-11-18_story_am.jpg",
-   "status": "pending"
-  },
-  {
-   "id": "2026-11-18_3-rules-first-trade",
-   "type": "reel",
-   "due": "2026-11-18T12:55:00+05:30",
-   "video": "media/2026-11-18_3-rules-first-trade.mp4",
-   "cover": "media/2026-11-18_3-rules-first-trade_cover.jpg",
-   "caption": "Agar main zero se trading shuru karta, to pehle ye 3 rules set karta 👇\n\n1️⃣ Paper trade pehle: asli paisa lagaye bina practice\n2️⃣ Har trade mein chhota, fixed risk: ₹50,000 ka 1% = ₹500. 5 galat trades ke baad bhi ₹47,500 bache\n3️⃣ Trade journal: kyun liya, kahan exit, kya seekha\n\nKaunsa rule aap already follow karte ho? Comment karo.\n\nSave karo aur follow karo.\n\nIllustrative numbers. Charts are illustrations, not real price data. Educational content only, not financial advice.\n\n#trading #tradingforbeginners #riskmanagement #stockmarketindia #sharemarket #tradingpsychology #papertrading #hinglish #moneytips #tradingbuddy",
-   "status": "pending"
-  },
-  {
-   "id": "2026-11-18_read-a-candle",
-   "type": "reel",
-   "due": "2026-11-18T19:55:00+05:30",
-   "video": "media/2026-11-18_read-a-candle.mp4",
-   "cover": "media/2026-11-18_read-a-candle_cover.jpg",
-   "caption": "Ye candle padh sakte ho? 3 second ⏱️\n\n• Body = open se close\n• Green: price open se UPAR band hua (₹100 → ₹110)\n• Red: open se NEECHE band hua\n• Upar ki wick = high, neeche ki wick = low\n• Bahut saari candles saath = trend\n\nAapka jawab sahi tha? Comment karo 👇\n\nSave karo aur follow karo.\n\nCharts are illustrations, not real price data. Educational content only, not financial advice.\n\n#candlestick #technicalanalysis #stockmarketindia #sharemarket #tradingforbeginners #chartpatterns #trading #hinglish #financialliteracy #tradingbuddy",
-   "status": "pending"
-  },
-  {
-   "id": "2026-11-18_story_pm",
-   "type": "story",
-   "due": "2026-11-18T20:55:00+05:30",
-   "image": "media/2026-11-18_story_pm.jpg",
-   "status": "pending"
-  }
- ]
+  "base_url": "https://raw.githubusercontent.com/ravishaffiliate/reels-cdn/main/",
+  "ig_user_id": "17841462025368766",
+  "items": [
+    {
+      "id": "2026-11-15_story_am",
+      "type": "story",
+      "due": "2026-11-15T08:55:00+05:30",
+      "image": "media/2026-11-15_story_am.jpg",
+      "status": "posted",
+      "ig_media_id": "18134681563691002",
+      "permalink": "https://www.instagram.com/stories/truly.friendly/4030668534580263129",
+      "posted_at": "2026-11-15T08:56:02+05:30"
+    },
+    {
+      "id": "2026-11-15_3-beginner-mistakes",
+      "type": "reel",
+      "due": "2026-11-15T12:55:00+05:30",
+      "video": "media/2026-11-15_3-beginner-mistakes.mp4",
+      "cover": "media/2026-11-15_3-beginner-mistakes_cover.jpg",
+      "caption": "If I had to start investing from zero, I'd avoid these 3 mistakes first 👇\n\n1️⃣ Investing money you'll need soon → build a safety fund first\n2️⃣ Putting everything in one stock → spread the risk\n3️⃣ Panic selling on a red day → make a plan before you buy\n\nWhich one have you made? Tell me in the comments.\n\nSave this for later and follow for one money rule a day.\n\nEducational content only, not financial advice.\n\n#investingforbeginners #stockmarket #stockmarketindia #personalfinance #financialliteracy #investing #moneytips #indexfunds #riskmanagement #tradingbuddy",
+      "status": "posted",
+      "ig_media_id": "18150827056566988",
+      "permalink": "https://www.instagram.com/reel/DfwPdJNtJ8r/",
+      "posted_at": "2026-11-15T12:57:16+05:30"
+    },
+    {
+      "id": "2026-11-15_carousel_dictionary",
+      "type": "carousel",
+      "due": "2026-11-15T17:55:00+05:30",
+      "images": [
+        "media/2026-11-15_c01.jpg",
+        "media/2026-11-15_c02.jpg",
+        "media/2026-11-15_c03.jpg",
+        "media/2026-11-15_c04.jpg",
+        "media/2026-11-15_c05.jpg",
+        "media/2026-11-15_c06.jpg",
+        "media/2026-11-15_c07.jpg"
+      ],
+      "caption": "10 words that make the stock market make sense 📚\n\nShare • Index • Nifty 50 & Sensex • Demat • Broker • IPO • Dividend • P/E ratio • Bull vs Bear • SIP\n\nSwipe through, then save this so you can come back to it.\n\nWhich word was new for you? Tell me in the comments 👇\n\nFollow for one money rule a day.\n\nEducational content only, not financial advice.\n\n#stockmarketindia #stockmarket #investingforbeginners #financialliteracy #personalfinance #sharemarket #nifty50 #sensex #moneytips #tradingbuddy",
+      "status": "posted",
+      "ig_media_id": "18133783982511497",
+      "permalink": "https://www.instagram.com/p/Dfwx0CGoah9/",
+      "posted_at": "2026-11-15T17:56:54+05:30"
+    },
+    {
+      "id": "2026-11-15_sip-vs-lump-sum",
+      "type": "reel",
+      "due": "2026-11-15T19:55:00+05:30",
+      "video": "media/2026-11-15_sip-vs-lump-sum.mp4",
+      "cover": "media/2026-11-15_sip-vs-lump-sum_cover.jpg",
+      "caption": "₹12,000: invest it all at once, or ₹4,000 a month for 3 months? 🤔\n\nLump sum at ₹100 → 120 units\nSIP when the price goes ₹100 → ₹80 → ₹100 → 40 + 50 + 40 = 130 units\nSIP when the price goes ₹100 → ₹120 → ₹150 → 40 + 33.3 + 26.7 = 100 units\n\nThat's rupee cost averaging: dips help a SIP, steady rises help a lump sum. Neither is always better.\n\nWhich would you pick? Comment SIP or lump sum 👇\n\nFollow for one money rule a day.\n\nIllustrative numbers. Educational content only, not financial advice.\n\n#sip #mutualfunds #investingforbeginners #stockmarketindia #personalfinance #financialliteracy #moneytips #rupeecostaveraging #investing #tradingbuddy",
+      "status": "posted",
+      "ig_media_id": "17920706370468722",
+      "permalink": "https://www.instagram.com/reel/Dfw_ePTtCaI/",
+      "posted_at": "2026-11-15T19:56:49+05:30"
+    },
+    {
+      "id": "2026-11-15_story_pm",
+      "type": "story",
+      "due": "2026-11-15T20:55:00+05:30",
+      "image": "media/2026-11-15_story_pm.jpg",
+      "status": "posted",
+      "ig_media_id": "18112507796235110",
+      "permalink": "https://www.instagram.com/stories/truly.friendly/4031030842428278958",
+      "posted_at": "2026-11-15T20:55:53+05:30"
+    },
+    {
+      "id": "2026-11-17_story_am",
+      "type": "story",
+      "due": "2026-11-17T08:55:00+05:30",
+      "image": "media/2026-11-17_story_am.jpg",
+      "status": "posted",
+      "ig_media_id": "18212594056370925",
+      "permalink": "https://www.instagram.com/stories/truly.friendly/4032118286262836108",
+      "posted_at": "2026-11-17T03:26:25+0000"
+    },
+    {
+      "id": "2026-11-17_crude-oil-stocks",
+      "type": "reel",
+      "due": "2026-11-17T12:55:00+05:30",
+      "video": "media/2026-11-17_crude-oil-stocks.mp4",
+      "cover": "media/2026-11-17_crude-oil-stocks_cover.jpg",
+      "caption": "India apna 85% se zyada crude oil import karta hai 🛢️ Isliye tel ka daam aapke stocks ko hilata hai.\n\n• Crude mehnga → import bill ↑ → zyada dollar chahiye\n• Rupee kamzor → imports mehnge, inflation ka risk\n• Airlines, paints, oil companies: laagat crude se judi\n• Crude sasta → inhi sectors ki laagat kam ho sakti hai\n\nPar stocks sirf tel se nahi chalte: earnings, interest rates aur global mood bhi matter karte hain.\n\nSave karo aur roz ek money rule ke liye follow karo.\n\nCharts are illustrations, not real price data. Educational content only, not financial advice.\n\n#crudeoil #stockmarketindia #sharemarket #rupee #inflation #investingforbeginners #financialliteracy #hinglish #moneytips #tradingbuddy",
+      "status": "pending"
+    },
+    {
+      "id": "2026-11-17_carousel_loss-recovery",
+      "type": "carousel",
+      "due": "2026-11-17T17:55:00+05:30",
+      "images": [
+        "media/2026-11-17_c01.jpg",
+        "media/2026-11-17_c02.jpg",
+        "media/2026-11-17_c03.jpg",
+        "media/2026-11-17_c04.jpg",
+        "media/2026-11-17_c05.jpg"
+      ],
+      "caption": "Bada loss wapas laana itna mushkil kyun hai? 📉\n\n−10% → +11.1% chahiye\n−25% → +33.3%\n−50% → +100%\n−75% → +300%\n−90% → +900%\n\nFormula: loss ÷ (100 − loss). Isliye pehle downside protect karo.\n\nKaunsa number shock kar gaya? Comment karo 👇\n\nSave karo aur roz ek money rule ke liye follow karo.\n\nEducational content only, not financial advice.\n\n#riskmanagement #stockmarketindia #sharemarket #trading #investingforbeginners #financialliteracy #tradingpsychology #hinglish #moneytips #tradingbuddy",
+      "status": "pending"
+    },
+    {
+      "id": "2026-11-17_stop-loss-100",
+      "type": "reel",
+      "due": "2026-11-17T19:55:00+05:30",
+      "video": "media/2026-11-17_stop-loss-100.mp4",
+      "cover": "media/2026-11-17_stop-loss-100_cover.jpg",
+      "caption": "Aapne stock ₹100 par khareeda. Galat nikla, to exit kahan karoge? 🤔\n\nYahi hai stop-loss: ek exit price jo aap kharidne se PEHLE tay karte ho.\n\n• Stop ₹95 → risk ₹5 per share = 5%\n• Bina stop: ₹100 → ₹70 = −30%\n• ₹70 se ₹100 wapas aane ke liye ~43% gain chahiye\n\nPehle exit, phir entry.\n\nAap stop-loss use karte ho? Comment karo 👇 Aur follow karo.\n\nIllustrative numbers, no trade calls. Charts are illustrations, not real price data. Educational content only, not financial advice.\n\n#stoploss #trading #riskmanagement #stockmarketindia #sharemarket #tradingforbeginners #tradingpsychology #hinglish #moneytips #tradingbuddy",
+      "status": "pending"
+    },
+    {
+      "id": "2026-11-17_story_pm",
+      "type": "story",
+      "due": "2026-11-17T20:55:00+05:30",
+      "image": "media/2026-11-17_story_pm.jpg",
+      "status": "pending"
+    },
+    {
+      "id": "2026-11-18_story_am",
+      "type": "story",
+      "due": "2026-11-18T08:55:00+05:30",
+      "image": "media/2026-11-18_story_am.jpg",
+      "status": "pending"
+    },
+    {
+      "id": "2026-11-18_3-rules-first-trade",
+      "type": "reel",
+      "due": "2026-11-18T12:55:00+05:30",
+      "video": "media/2026-11-18_3-rules-first-trade.mp4",
+      "cover": "media/2026-11-18_3-rules-first-trade_cover.jpg",
+      "caption": "Agar main zero se trading shuru karta, to pehle ye 3 rules set karta 👇\n\n1️⃣ Paper trade pehle: asli paisa lagaye bina practice\n2️⃣ Har trade mein chhota, fixed risk: ₹50,000 ka 1% = ₹500. 5 galat trades ke baad bhi ₹47,500 bache\n3️⃣ Trade journal: kyun liya, kahan exit, kya seekha\n\nKaunsa rule aap already follow karte ho? Comment karo.\n\nSave karo aur follow karo.\n\nIllustrative numbers. Charts are illustrations, not real price data. Educational content only, not financial advice.\n\n#trading #tradingforbeginners #riskmanagement #stockmarketindia #sharemarket #tradingpsychology #papertrading #hinglish #moneytips #tradingbuddy",
+      "status": "pending"
+    },
+    {
+      "id": "2026-11-18_read-a-candle",
+      "type": "reel",
+      "due": "2026-11-18T19:55:00+05:30",
+      "video": "media/2026-11-18_read-a-candle.mp4",
+      "cover": "media/2026-11-18_read-a-candle_cover.jpg",
+      "caption": "Ye candle padh sakte ho? 3 second ⏱️\n\n• Body = open se close\n• Green: price open se UPAR band hua (₹100 → ₹110)\n• Red: open se NEECHE band hua\n• Upar ki wick = high, neeche ki wick = low\n• Bahut saari candles saath = trend\n\nAapka jawab sahi tha? Comment karo 👇\n\nSave karo aur follow karo.\n\nCharts are illustrations, not real price data. Educational content only, not financial advice.\n\n#candlestick #technicalanalysis #stockmarketindia #sharemarket #tradingforbeginners #chartpatterns #trading #hinglish #financialliteracy #tradingbuddy",
+      "status": "pending"
+    },
+    {
+      "id": "2026-11-18_story_pm",
+      "type": "story",
+      "due": "2026-11-18T20:55:00+05:30",
+      "image": "media/2026-11-18_story_pm.jpg",
+      "status": "pending"
+    }
+  ]
 }
