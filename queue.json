@@ -1,268 +1,314 @@
 {
-  "base_url": "https://raw.githubusercontent.com/ravishaffiliate/reels-cdn/main/",
-  "ig_user_id": "17841462025368766",
-  "items": [
-    {
-      "id": "2026-11-15_story_am",
-      "type": "story",
-      "due": "2026-11-15T08:55:00+05:30",
-      "image": "media/2026-11-15_story_am.jpg",
-      "status": "posted",
-      "ig_media_id": "18134681563691002",
-      "permalink": "https://www.instagram.com/stories/truly.friendly/4030668534580263129",
-      "posted_at": "2026-11-15T08:56:02+05:30"
-    },
-    {
-      "id": "2026-11-15_3-beginner-mistakes",
-      "type": "reel",
-      "due": "2026-11-15T12:55:00+05:30",
-      "video": "media/2026-11-15_3-beginner-mistakes.mp4",
-      "cover": "media/2026-11-15_3-beginner-mistakes_cover.jpg",
-      "caption": "If I had to start investing from zero, I'd avoid these 3 mistakes first 👇\n\n1️⃣ Investing money you'll need soon → build a safety fund first\n2️⃣ Putting everything in one stock → spread the risk\n3️⃣ Panic selling on a red day → make a plan before you buy\n\nWhich one have you made? Tell me in the comments.\n\nSave this for later and follow for one money rule a day.\n\nEducational content only, not financial advice.\n\n#investingforbeginners #stockmarket #stockmarketindia #personalfinance #financialliteracy #investing #moneytips #indexfunds #riskmanagement #tradingbuddy",
-      "status": "posted",
-      "ig_media_id": "18150827056566988",
-      "permalink": "https://www.instagram.com/reel/DfwPdJNtJ8r/",
-      "posted_at": "2026-11-15T12:57:16+05:30"
-    },
-    {
-      "id": "2026-11-15_carousel_dictionary",
-      "type": "carousel",
-      "due": "2026-11-15T17:55:00+05:30",
-      "images": [
-        "media/2026-11-15_c01.jpg",
-        "media/2026-11-15_c02.jpg",
-        "media/2026-11-15_c03.jpg",
-        "media/2026-11-15_c04.jpg",
-        "media/2026-11-15_c05.jpg",
-        "media/2026-11-15_c06.jpg",
-        "media/2026-11-15_c07.jpg"
-      ],
-      "caption": "10 words that make the stock market make sense 📚\n\nShare • Index • Nifty 50 & Sensex • Demat • Broker • IPO • Dividend • P/E ratio • Bull vs Bear • SIP\n\nSwipe through, then save this so you can come back to it.\n\nWhich word was new for you? Tell me in the comments 👇\n\nFollow for one money rule a day.\n\nEducational content only, not financial advice.\n\n#stockmarketindia #stockmarket #investingforbeginners #financialliteracy #personalfinance #sharemarket #nifty50 #sensex #moneytips #tradingbuddy",
-      "status": "posted",
-      "ig_media_id": "18133783982511497",
-      "permalink": "https://www.instagram.com/p/Dfwx0CGoah9/",
-      "posted_at": "2026-11-15T17:56:54+05:30"
-    },
-    {
-      "id": "2026-11-15_sip-vs-lump-sum",
-      "type": "reel",
-      "due": "2026-11-15T19:55:00+05:30",
-      "video": "media/2026-11-15_sip-vs-lump-sum.mp4",
-      "cover": "media/2026-11-15_sip-vs-lump-sum_cover.jpg",
-      "caption": "₹12,000: invest it all at once, or ₹4,000 a month for 3 months? 🤔\n\nLump sum at ₹100 → 120 units\nSIP when the price goes ₹100 → ₹80 → ₹100 → 40 + 50 + 40 = 130 units\nSIP when the price goes ₹100 → ₹120 → ₹150 → 40 + 33.3 + 26.7 = 100 units\n\nThat's rupee cost averaging: dips help a SIP, steady rises help a lump sum. Neither is always better.\n\nWhich would you pick? Comment SIP or lump sum 👇\n\nFollow for one money rule a day.\n\nIllustrative numbers. Educational content only, not financial advice.\n\n#sip #mutualfunds #investingforbeginners #stockmarketindia #personalfinance #financialliteracy #moneytips #rupeecostaveraging #investing #tradingbuddy",
-      "status": "posted",
-      "ig_media_id": "17920706370468722",
-      "permalink": "https://www.instagram.com/reel/Dfw_ePTtCaI/",
-      "posted_at": "2026-11-15T19:56:49+05:30"
-    },
-    {
-      "id": "2026-11-15_story_pm",
-      "type": "story",
-      "due": "2026-11-15T20:55:00+05:30",
-      "image": "media/2026-11-15_story_pm.jpg",
-      "status": "posted",
-      "ig_media_id": "18112507796235110",
-      "permalink": "https://www.instagram.com/stories/truly.friendly/4031030842428278958",
-      "posted_at": "2026-11-15T20:55:53+05:30"
-    },
-    {
-      "id": "2026-11-17_story_am",
-      "type": "story",
-      "due": "2026-11-17T08:55:00+05:30",
-      "image": "media/2026-11-17_story_am.jpg",
-      "status": "posted",
-      "ig_media_id": "18212594056370925",
-      "permalink": "https://www.instagram.com/stories/truly.friendly/4032118286262836108",
-      "posted_at": "2026-11-17T03:26:25+0000"
-    },
-    {
-      "id": "2026-11-17_crude-oil-stocks",
-      "type": "reel",
-      "due": "2026-11-17T12:55:00+05:30",
-      "video": "media/2026-11-17_crude-oil-stocks.mp4",
-      "cover": "media/2026-11-17_crude-oil-stocks_cover.jpg",
-      "caption": "India apna 85% se zyada crude oil import karta hai 🛢️ Isliye tel ka daam aapke stocks ko hilata hai.\n\n• Crude mehnga → import bill ↑ → zyada dollar chahiye\n• Rupee kamzor → imports mehnge, inflation ka risk\n• Airlines, paints, oil companies: laagat crude se judi\n• Crude sasta → inhi sectors ki laagat kam ho sakti hai\n\nPar stocks sirf tel se nahi chalte: earnings, interest rates aur global mood bhi matter karte hain.\n\nSave karo aur roz ek money rule ke liye follow karo.\n\nCharts are illustrations, not real price data. Educational content only, not financial advice.\n\n#crudeoil #stockmarketindia #sharemarket #rupee #inflation #investingforbeginners #financialliteracy #hinglish #moneytips #tradingbuddy",
-      "status": "posted",
-      "ig_media_id": "18452798251121194",
-      "permalink": "https://www.instagram.com/reel/Df1Y95URhLe/",
-      "posted_at": "2026-11-17T12:56:30+05:30"
-    },
-    {
-      "id": "2026-11-17_carousel_loss-recovery",
-      "type": "carousel",
-      "due": "2026-11-17T17:55:00+05:30",
-      "images": [
-        "media/2026-11-17_c01.jpg",
-        "media/2026-11-17_c02.jpg",
-        "media/2026-11-17_c03.jpg",
-        "media/2026-11-17_c04.jpg",
-        "media/2026-11-17_c05.jpg"
-      ],
-      "caption": "Bada loss wapas laana itna mushkil kyun hai? 📉\n\n−10% → +11.1% chahiye\n−25% → +33.3%\n−50% → +100%\n−75% → +300%\n−90% → +900%\n\nFormula: loss ÷ (100 − loss). Isliye pehle downside protect karo.\n\nKaunsa number shock kar gaya? Comment karo 👇\n\nSave karo aur roz ek money rule ke liye follow karo.\n\nEducational content only, not financial advice.\n\n#riskmanagement #stockmarketindia #sharemarket #trading #investingforbeginners #financialliteracy #tradingpsychology #hinglish #moneytips #tradingbuddy",
-      "status": "posted",
-      "ig_media_id": "18095580971194505",
-      "permalink": "https://www.instagram.com/p/Df17X9mIdBu/",
-      "posted_at": "2026-11-17T12:26:41+00:00"
-    },
-    {
-      "id": "2026-11-17_stop-loss-100",
-      "type": "reel",
-      "due": "2026-11-17T19:55:00+05:30",
-      "video": "media/2026-11-17_stop-loss-100.mp4",
-      "cover": "media/2026-11-17_stop-loss-100_cover.jpg",
-      "caption": "Aapne stock ₹100 par khareeda. Galat nikla, to exit kahan karoge? 🤔\n\nYahi hai stop-loss: ek exit price jo aap kharidne se PEHLE tay karte ho.\n\n• Stop ₹95 → risk ₹5 per share = 5%\n• Bina stop: ₹100 → ₹70 = −30%\n• ₹70 se ₹100 wapas aane ke liye ~43% gain chahiye\n\nPehle exit, phir entry.\n\nAap stop-loss use karte ho? Comment karo 👇 Aur follow karo.\n\nIllustrative numbers, no trade calls. Charts are illustrations, not real price data. Educational content only, not financial advice.\n\n#stoploss #trading #riskmanagement #stockmarketindia #sharemarket #tradingforbeginners #tradingpsychology #hinglish #moneytips #tradingbuddy",
-      "status": "posted",
-      "ig_media_id": "18095832422194985",
-      "permalink": "https://www.instagram.com/reel/Df2JBxxw9_i/",
-      "posted_at": "2026-11-17T19:56:33+05:30"
-    },
-    {
-      "id": "2026-11-17_story_pm",
-      "type": "story",
-      "due": "2026-11-17T20:55:00+05:30",
-      "image": "media/2026-11-17_story_pm.jpg",
-      "status": "posted",
-      "ig_media_id": "18099975356440329",
-      "permalink": "https://www.instagram.com/stories/truly.friendly/4032480639409275506",
-      "posted_at": "2026-11-17T15:26:22+0000"
-    },
-    {
-      "id": "2026-11-18_story_am",
-      "type": "story",
-      "due": "2026-11-18T08:55:00+05:30",
-      "image": "media/2026-11-18_story_am.jpg",
-      "status": "posted",
-      "ig_media_id": "18122386804757361",
-      "permalink": "https://www.instagram.com/stories/truly.friendly/4032843118969473224",
-      "posted_at": "2026-11-18T08:56:31+05:30"
-    },
-    {
-      "id": "2026-11-18_3-rules-first-trade",
-      "type": "reel",
-      "due": "2026-11-18T12:55:00+05:30",
-      "video": "media/2026-11-18_3-rules-first-trade.mp4",
-      "cover": "media/2026-11-18_3-rules-first-trade_cover.jpg",
-      "caption": "Agar main zero se trading shuru karta, to pehle ye 3 rules set karta 👇\n\n1️⃣ Paper trade pehle: asli paisa lagaye bina practice\n2️⃣ Har trade mein chhota, fixed risk: ₹50,000 ka 1% = ₹500. 5 galat trades ke baad bhi ₹47,500 bache\n3️⃣ Trade journal: kyun liya, kahan exit, kya seekha\n\nKaunsa rule aap already follow karte ho? Comment karo.\n\nSave karo aur follow karo.\n\nIllustrative numbers. Charts are illustrations, not real price data. Educational content only, not financial advice.\n\n#trading #tradingforbeginners #riskmanagement #stockmarketindia #sharemarket #tradingpsychology #papertrading #hinglish #moneytips #tradingbuddy",
-      "status": "posted",
-      "ig_media_id": "18089605652309905",
-      "permalink": "https://www.instagram.com/reel/Df39x3ciIB5/",
-      "posted_at": "2026-11-18T12:56:27+05:30"
-    },
-    {
-      "id": "2026-11-18_read-a-candle",
-      "type": "reel",
-      "due": "2026-11-18T19:55:00+05:30",
-      "video": "media/2026-11-18_read-a-candle.mp4",
-      "cover": "media/2026-11-18_read-a-candle_cover.jpg",
-      "caption": "Ye candle padh sakte ho? 3 second ⏱️\n\n• Body = open se close\n• Green: price open se UPAR band hua (₹100 → ₹110)\n• Red: open se NEECHE band hua\n• Upar ki wick = high, neeche ki wick = low\n• Bahut saari candles saath = trend\n\nAapka jawab sahi tha? Comment karo 👇\n\nSave karo aur follow karo.\n\nCharts are illustrations, not real price data. Educational content only, not financial advice.\n\n#candlestick #technicalanalysis #stockmarketindia #sharemarket #tradingforbeginners #chartpatterns #trading #hinglish #financialliteracy #tradingbuddy",
-      "status": "posted",
-      "ig_media_id": "18001977534043689",
-      "permalink": "https://www.instagram.com/reel/Df4t0XfBQWx/",
-      "posted_at": "2026-11-18T19:56:32+05:30"
-    },
-    {
-      "id": "2026-11-18_story_pm",
-      "type": "story",
-      "due": "2026-11-18T20:55:00+05:30",
-      "image": "media/2026-11-18_story_pm.jpg",
-      "status": "posted",
-      "ig_media_id": "18120453830327789",
-      "permalink": "https://www.instagram.com/stories/truly.friendly/4033205485671886578",
-      "posted_at": "2026-11-18T20:56:30+05:30"
-    },
-    {
-      "id": "2026-11-19_story_am",
-      "type": "story",
-      "due": "2026-11-19T08:55:00+05:30",
-      "image": "media/2026-11-19_story_am.jpg",
-      "status": "posted",
-      "ig_media_id": "18131892289885701",
-      "permalink": "https://www.instagram.com/stories/truly.friendly/4033567658183865725",
-      "posted_at": "2026-11-19T03:26:04+0000"
-    },
-    {
-      "id": "2026-11-19_ipo-basics",
-      "type": "reel",
-      "due": "2026-11-19T12:55:00+05:30",
-      "video": "media/2026-11-19_ipo-basics.mp4",
-      "cover": "media/2026-11-19_ipo-basics_cover.jpg",
-      "caption": "IPO mein apply kar diya. Ab aage kya hota hai? 👇\n\n1️⃣ Price band: company range deti hai (example: ₹95–₹100)\n2️⃣ Lot size: shares lot mein milte hain (example: 150 × ₹100 = ₹15,000)\n3️⃣ UPI bid: paisa sirf block hota hai, abhi debit nahi\n4️⃣ Allotment: demand zyada ho to retail mein lottery jaisa system. Mile to debit, na mile to unblock\n5️⃣ Listing: SEBI rule se issue band hone ke 3 working days baad (T+3)\n\nListing price upar bhi khul sakta hai, neeche bhi. Koi guarantee nahi.\n\nKya aapne kabhi IPO apply kiya hai? Comment karo.\n\nSave karo aur follow karo.\n\nExample numbers only. Charts are illustrations, not real price data. Educational content only, not financial advice.\n\n#ipo #ipoindia #stockmarketindia #sharemarket #investingforbeginners #financialliteracy #hinglish #moneytips #stockmarketeducation #tradingbuddy",
-      "status": "posted",
-      "ig_media_id": "18100308455226405",
-      "permalink": "https://www.instagram.com/reel/Df6iqW2Bn3Y/",
-      "posted_at": "2026-11-19T07:27:27+0000"
-    },
-    {
-      "id": "2026-11-19_carousel_ipo-checklist",
-      "type": "carousel",
-      "due": "2026-11-19T17:55:00+05:30",
-      "images": [
-        "media/2026-11-19_c01.jpg",
-        "media/2026-11-19_c02.jpg",
-        "media/2026-11-19_c03.jpg",
-        "media/2026-11-19_c04.jpg",
-        "media/2026-11-19_c05.jpg",
-        "media/2026-11-19_c06.jpg"
-      ],
-      "caption": "Kisi bhi IPO mein apply se pehle ye 7 cheezein check karo 👇\n\n1️⃣ Business: company paisa kaise kamati hai?\n2️⃣ 3 saal ke numbers: revenue aur profit ka trend\n3️⃣ Use of funds: growth ya purana loan?\n4️⃣ Fresh issue vs OFS: paisa company ko ya purane shareholders ko?\n5️⃣ Valuation: same sector ki companies se P/E compare\n6️⃣ Risk factors: RHP ka risk section padho\n7️⃣ Promoter holding: IPO ke baad kitna hissa bachega?\n\nInmein se kaunsa aap skip karte the? Comment karo.\n\nSave karo aur follow karo, roz 1 money rule.\n\nEducational content only, not financial advice. No IPO recommendation.\n\n#ipo #ipoindia #stockmarketindia #sharemarket #investingforbeginners #financialliteracy #hinglish #moneytips #stockmarketeducation #tradingbuddy",
-      "status": "posted",
-      "ig_media_id": "18121192051770637",
-      "permalink": "https://www.instagram.com/p/Df7E_KEIF9L/",
-      "posted_at": "2026-11-19T17:56:51+05:30"
-    },
-    {
-      "id": "2026-11-19_myth-lakhs",
-      "type": "reel",
-      "due": "2026-11-19T19:55:00+05:30",
-      "video": "media/2026-11-19_myth-lakhs.mp4",
-      "cover": "media/2026-11-19_myth-lakhs_cover.jpg",
-      "caption": "Investing shuru karne ke liye lakhs chahiye? Myth hai 👇\n\n✅ Share market: sirf 1 share bhi khareed sakte ho\n✅ Mutual funds: kai funds ₹500 ya usse kam ki monthly SIP allow karte hain (har fund ka minimum check karo)\n✅ ₹500 × 12 mahine = ₹6,000 jama. Ye return nahi, aapka apna paisa hai\n✅ Income badhe to SIP badhao\n\nPehle emergency fund. Jo paisa jaldi chahiye, wo market mein mat daalo.\n\nYe Reel us dost ko bhejo jo lakhs ka wait kar raha hai.\n\nFollow karo, roz 1 money rule.\n\nExample numbers only. Charts are illustrations, not real price data. Educational content only, not financial advice.\n\n#investingforbeginners #sip #mutualfunds #stockmarketindia #personalfinance #financialliteracy #hinglish #moneytips #sharemarket #tradingbuddy",
-      "status": "posted",
-      "ig_media_id": "18503373976111565",
-      "permalink": "https://www.instagram.com/reel/Df7Spe5yM9v/",
-      "posted_at": "2026-11-19T19:56:42+05:30"
-    },
-    {
-      "id": "2026-11-19_story_pm",
-      "type": "story",
-      "due": "2026-11-19T20:55:00+05:30",
-      "image": "media/2026-11-19_story_pm.jpg",
-      "status": "posted",
-      "ig_media_id": "18211011967371213",
-      "permalink": "https://www.instagram.com/stories/truly.friendly/4033930010063645202",
-      "posted_at": "2026-11-19T20:56:01+05:30"
-    },
-    {
-      "id": "2026-11-20_story_am",
-      "type": "story",
-      "due": "2026-11-20T08:55:00+05:30",
-      "image": "media/2026-11-20_story_am.jpg",
-      "status": "pending"
-    },
-    {
-      "id": "2026-11-20_inflation-cpi",
-      "type": "reel",
-      "due": "2026-11-20T12:55:00+05:30",
-      "video": "media/2026-11-20_inflation-cpi.mp4",
-      "cover": "media/2026-11-20_inflation-cpi_cover.jpg",
-      "caption": "RBI ek number ko itna serious kyun leta hai? 👇\n\n📊 CPI = ek basket (khana, kiraya, fuel, kapde) ka price, har mahine\n💸 Example: 6% inflation par ₹100 ki cheez saal baad ₹106 ki\n🎯 RBI ka target: 4% inflation, 2% se 6% ki range\n🏦 Inflation zyada rahe to RBI repo rate badha sakta hai, loan EMI mehengi\n📈 Isliye CPI data aate hi market mein halchal\n\nSave karo aur follow karo, roz 1 money rule.\n\nExample numbers only. Charts are illustrations, not real price data. Educational content only, not financial advice.\n\n#inflation #cpi #rbi #stockmarketindia #sharemarket #financialliteracy #personalfinance #hinglish #moneytips #tradingbuddy",
-      "status": "pending"
-    },
-    {
-      "id": "2026-11-20_rule-of-72",
-      "type": "reel",
-      "due": "2026-11-20T19:55:00+05:30",
-      "video": "media/2026-11-20_rule-of-72.mp4",
-      "cover": "media/2026-11-20_rule-of-72_cover.jpg",
-      "caption": "Paisa double hone mein kitne saal? 10 second ka trick 🧮\n\nRule of 72: 72 ÷ saalana return % = lagbhag saal\n• 8% → 72 ÷ 8 = ~9 saal\n• 12% → 72 ÷ 12 = ~6 saal\n• 24% wala loan (na chukao to) → 72 ÷ 24 = ~3 saal mein double 😬\n\nYe sirf andaza hai, guarantee nahi. Asli returns upar neeche hote hain.\n\nComment karo: aapka paisa kitne saal mein double hoga? Save karo aur follow karo, roz 1 money rule.\n\nExample numbers only. Charts are illustrations, not real price data. Educational content only, not financial advice.\n\n#ruleof72 #compounding #investingforbeginners #personalfinance #financialliteracy #stockmarketindia #hinglish #moneytips #sharemarket #tradingbuddy",
-      "status": "pending"
-    },
-    {
-      "id": "2026-11-20_story_pm",
-      "type": "story",
-      "due": "2026-11-20T20:55:00+05:30",
-      "image": "media/2026-11-20_story_pm.jpg",
-      "status": "pending"
-    }
-  ]
+ "base_url": "https://raw.githubusercontent.com/ravishaffiliate/reels-cdn/main/",
+ "ig_user_id": "17841462025368766",
+ "items": [
+  {
+   "id": "2026-11-15_story_am",
+   "type": "story",
+   "due": "2026-11-15T08:55:00+05:30",
+   "image": "media/2026-11-15_story_am.jpg",
+   "status": "posted",
+   "ig_media_id": "18134681563691002",
+   "permalink": "https://www.instagram.com/stories/truly.friendly/4030668534580263129",
+   "posted_at": "2026-11-15T08:56:02+05:30"
+  },
+  {
+   "id": "2026-11-15_3-beginner-mistakes",
+   "type": "reel",
+   "due": "2026-11-15T12:55:00+05:30",
+   "video": "media/2026-11-15_3-beginner-mistakes.mp4",
+   "cover": "media/2026-11-15_3-beginner-mistakes_cover.jpg",
+   "caption": "If I had to start investing from zero, I'd avoid these 3 mistakes first 👇\n\n1️⃣ Investing money you'll need soon → build a safety fund first\n2️⃣ Putting everything in one stock → spread the risk\n3️⃣ Panic selling on a red day → make a plan before you buy\n\nWhich one have you made? Tell me in the comments.\n\nSave this for later and follow for one money rule a day.\n\nEducational content only, not financial advice.\n\n#investingforbeginners #stockmarket #stockmarketindia #personalfinance #financialliteracy #investing #moneytips #indexfunds #riskmanagement #tradingbuddy",
+   "status": "posted",
+   "ig_media_id": "18150827056566988",
+   "permalink": "https://www.instagram.com/reel/DfwPdJNtJ8r/",
+   "posted_at": "2026-11-15T12:57:16+05:30"
+  },
+  {
+   "id": "2026-11-15_carousel_dictionary",
+   "type": "carousel",
+   "due": "2026-11-15T17:55:00+05:30",
+   "images": [
+    "media/2026-11-15_c01.jpg",
+    "media/2026-11-15_c02.jpg",
+    "media/2026-11-15_c03.jpg",
+    "media/2026-11-15_c04.jpg",
+    "media/2026-11-15_c05.jpg",
+    "media/2026-11-15_c06.jpg",
+    "media/2026-11-15_c07.jpg"
+   ],
+   "caption": "10 words that make the stock market make sense 📚\n\nShare • Index • Nifty 50 & Sensex • Demat • Broker • IPO • Dividend • P/E ratio • Bull vs Bear • SIP\n\nSwipe through, then save this so you can come back to it.\n\nWhich word was new for you? Tell me in the comments 👇\n\nFollow for one money rule a day.\n\nEducational content only, not financial advice.\n\n#stockmarketindia #stockmarket #investingforbeginners #financialliteracy #personalfinance #sharemarket #nifty50 #sensex #moneytips #tradingbuddy",
+   "status": "posted",
+   "ig_media_id": "18133783982511497",
+   "permalink": "https://www.instagram.com/p/Dfwx0CGoah9/",
+   "posted_at": "2026-11-15T17:56:54+05:30"
+  },
+  {
+   "id": "2026-11-15_sip-vs-lump-sum",
+   "type": "reel",
+   "due": "2026-11-15T19:55:00+05:30",
+   "video": "media/2026-11-15_sip-vs-lump-sum.mp4",
+   "cover": "media/2026-11-15_sip-vs-lump-sum_cover.jpg",
+   "caption": "₹12,000: invest it all at once, or ₹4,000 a month for 3 months? 🤔\n\nLump sum at ₹100 → 120 units\nSIP when the price goes ₹100 → ₹80 → ₹100 → 40 + 50 + 40 = 130 units\nSIP when the price goes ₹100 → ₹120 → ₹150 → 40 + 33.3 + 26.7 = 100 units\n\nThat's rupee cost averaging: dips help a SIP, steady rises help a lump sum. Neither is always better.\n\nWhich would you pick? Comment SIP or lump sum 👇\n\nFollow for one money rule a day.\n\nIllustrative numbers. Educational content only, not financial advice.\n\n#sip #mutualfunds #investingforbeginners #stockmarketindia #personalfinance #financialliteracy #moneytips #rupeecostaveraging #investing #tradingbuddy",
+   "status": "posted",
+   "ig_media_id": "17920706370468722",
+   "permalink": "https://www.instagram.com/reel/Dfw_ePTtCaI/",
+   "posted_at": "2026-11-15T19:56:49+05:30"
+  },
+  {
+   "id": "2026-11-15_story_pm",
+   "type": "story",
+   "due": "2026-11-15T20:55:00+05:30",
+   "image": "media/2026-11-15_story_pm.jpg",
+   "status": "posted",
+   "ig_media_id": "18112507796235110",
+   "permalink": "https://www.instagram.com/stories/truly.friendly/4031030842428278958",
+   "posted_at": "2026-11-15T20:55:53+05:30"
+  },
+  {
+   "id": "2026-11-17_story_am",
+   "type": "story",
+   "due": "2026-11-17T08:55:00+05:30",
+   "image": "media/2026-11-17_story_am.jpg",
+   "status": "posted",
+   "ig_media_id": "18212594056370925",
+   "permalink": "https://www.instagram.com/stories/truly.friendly/4032118286262836108",
+   "posted_at": "2026-11-17T03:26:25+0000"
+  },
+  {
+   "id": "2026-11-17_crude-oil-stocks",
+   "type": "reel",
+   "due": "2026-11-17T12:55:00+05:30",
+   "video": "media/2026-11-17_crude-oil-stocks.mp4",
+   "cover": "media/2026-11-17_crude-oil-stocks_cover.jpg",
+   "caption": "India apna 85% se zyada crude oil import karta hai 🛢️ Isliye tel ka daam aapke stocks ko hilata hai.\n\n• Crude mehnga → import bill ↑ → zyada dollar chahiye\n• Rupee kamzor → imports mehnge, inflation ka risk\n• Airlines, paints, oil companies: laagat crude se judi\n• Crude sasta → inhi sectors ki laagat kam ho sakti hai\n\nPar stocks sirf tel se nahi chalte: earnings, interest rates aur global mood bhi matter karte hain.\n\nSave karo aur roz ek money rule ke liye follow karo.\n\nCharts are illustrations, not real price data. Educational content only, not financial advice.\n\n#crudeoil #stockmarketindia #sharemarket #rupee #inflation #investingforbeginners #financialliteracy #hinglish #moneytips #tradingbuddy",
+   "status": "posted",
+   "ig_media_id": "18452798251121194",
+   "permalink": "https://www.instagram.com/reel/Df1Y95URhLe/",
+   "posted_at": "2026-11-17T12:56:30+05:30"
+  },
+  {
+   "id": "2026-11-17_carousel_loss-recovery",
+   "type": "carousel",
+   "due": "2026-11-17T17:55:00+05:30",
+   "images": [
+    "media/2026-11-17_c01.jpg",
+    "media/2026-11-17_c02.jpg",
+    "media/2026-11-17_c03.jpg",
+    "media/2026-11-17_c04.jpg",
+    "media/2026-11-17_c05.jpg"
+   ],
+   "caption": "Bada loss wapas laana itna mushkil kyun hai? 📉\n\n−10% → +11.1% chahiye\n−25% → +33.3%\n−50% → +100%\n−75% → +300%\n−90% → +900%\n\nFormula: loss ÷ (100 − loss). Isliye pehle downside protect karo.\n\nKaunsa number shock kar gaya? Comment karo 👇\n\nSave karo aur roz ek money rule ke liye follow karo.\n\nEducational content only, not financial advice.\n\n#riskmanagement #stockmarketindia #sharemarket #trading #investingforbeginners #financialliteracy #tradingpsychology #hinglish #moneytips #tradingbuddy",
+   "status": "posted",
+   "ig_media_id": "18095580971194505",
+   "permalink": "https://www.instagram.com/p/Df17X9mIdBu/",
+   "posted_at": "2026-11-17T12:26:41+00:00"
+  },
+  {
+   "id": "2026-11-17_stop-loss-100",
+   "type": "reel",
+   "due": "2026-11-17T19:55:00+05:30",
+   "video": "media/2026-11-17_stop-loss-100.mp4",
+   "cover": "media/2026-11-17_stop-loss-100_cover.jpg",
+   "caption": "Aapne stock ₹100 par khareeda. Galat nikla, to exit kahan karoge? 🤔\n\nYahi hai stop-loss: ek exit price jo aap kharidne se PEHLE tay karte ho.\n\n• Stop ₹95 → risk ₹5 per share = 5%\n• Bina stop: ₹100 → ₹70 = −30%\n• ₹70 se ₹100 wapas aane ke liye ~43% gain chahiye\n\nPehle exit, phir entry.\n\nAap stop-loss use karte ho? Comment karo 👇 Aur follow karo.\n\nIllustrative numbers, no trade calls. Charts are illustrations, not real price data. Educational content only, not financial advice.\n\n#stoploss #trading #riskmanagement #stockmarketindia #sharemarket #tradingforbeginners #tradingpsychology #hinglish #moneytips #tradingbuddy",
+   "status": "posted",
+   "ig_media_id": "18095832422194985",
+   "permalink": "https://www.instagram.com/reel/Df2JBxxw9_i/",
+   "posted_at": "2026-11-17T19:56:33+05:30"
+  },
+  {
+   "id": "2026-11-17_story_pm",
+   "type": "story",
+   "due": "2026-11-17T20:55:00+05:30",
+   "image": "media/2026-11-17_story_pm.jpg",
+   "status": "posted",
+   "ig_media_id": "18099975356440329",
+   "permalink": "https://www.instagram.com/stories/truly.friendly/4032480639409275506",
+   "posted_at": "2026-11-17T15:26:22+0000"
+  },
+  {
+   "id": "2026-11-18_story_am",
+   "type": "story",
+   "due": "2026-11-18T08:55:00+05:30",
+   "image": "media/2026-11-18_story_am.jpg",
+   "status": "posted",
+   "ig_media_id": "18122386804757361",
+   "permalink": "https://www.instagram.com/stories/truly.friendly/4032843118969473224",
+   "posted_at": "2026-11-18T08:56:31+05:30"
+  },
+  {
+   "id": "2026-11-18_3-rules-first-trade",
+   "type": "reel",
+   "due": "2026-11-18T12:55:00+05:30",
+   "video": "media/2026-11-18_3-rules-first-trade.mp4",
+   "cover": "media/2026-11-18_3-rules-first-trade_cover.jpg",
+   "caption": "Agar main zero se trading shuru karta, to pehle ye 3 rules set karta 👇\n\n1️⃣ Paper trade pehle: asli paisa lagaye bina practice\n2️⃣ Har trade mein chhota, fixed risk: ₹50,000 ka 1% = ₹500. 5 galat trades ke baad bhi ₹47,500 bache\n3️⃣ Trade journal: kyun liya, kahan exit, kya seekha\n\nKaunsa rule aap already follow karte ho? Comment karo.\n\nSave karo aur follow karo.\n\nIllustrative numbers. Charts are illustrations, not real price data. Educational content only, not financial advice.\n\n#trading #tradingforbeginners #riskmanagement #stockmarketindia #sharemarket #tradingpsychology #papertrading #hinglish #moneytips #tradingbuddy",
+   "status": "posted",
+   "ig_media_id": "18089605652309905",
+   "permalink": "https://www.instagram.com/reel/Df39x3ciIB5/",
+   "posted_at": "2026-11-18T12:56:27+05:30"
+  },
+  {
+   "id": "2026-11-18_read-a-candle",
+   "type": "reel",
+   "due": "2026-11-18T19:55:00+05:30",
+   "video": "media/2026-11-18_read-a-candle.mp4",
+   "cover": "media/2026-11-18_read-a-candle_cover.jpg",
+   "caption": "Ye candle padh sakte ho? 3 second ⏱️\n\n• Body = open se close\n• Green: price open se UPAR band hua (₹100 → ₹110)\n• Red: open se NEECHE band hua\n• Upar ki wick = high, neeche ki wick = low\n• Bahut saari candles saath = trend\n\nAapka jawab sahi tha? Comment karo 👇\n\nSave karo aur follow karo.\n\nCharts are illustrations, not real price data. Educational content only, not financial advice.\n\n#candlestick #technicalanalysis #stockmarketindia #sharemarket #tradingforbeginners #chartpatterns #trading #hinglish #financialliteracy #tradingbuddy",
+   "status": "posted",
+   "ig_media_id": "18001977534043689",
+   "permalink": "https://www.instagram.com/reel/Df4t0XfBQWx/",
+   "posted_at": "2026-11-18T19:56:32+05:30"
+  },
+  {
+   "id": "2026-11-18_story_pm",
+   "type": "story",
+   "due": "2026-11-18T20:55:00+05:30",
+   "image": "media/2026-11-18_story_pm.jpg",
+   "status": "posted",
+   "ig_media_id": "18120453830327789",
+   "permalink": "https://www.instagram.com/stories/truly.friendly/4033205485671886578",
+   "posted_at": "2026-11-18T20:56:30+05:30"
+  },
+  {
+   "id": "2026-11-19_story_am",
+   "type": "story",
+   "due": "2026-11-19T08:55:00+05:30",
+   "image": "media/2026-11-19_story_am.jpg",
+   "status": "posted",
+   "ig_media_id": "18131892289885701",
+   "permalink": "https://www.instagram.com/stories/truly.friendly/4033567658183865725",
+   "posted_at": "2026-11-19T03:26:04+0000"
+  },
+  {
+   "id": "2026-11-19_ipo-basics",
+   "type": "reel",
+   "due": "2026-11-19T12:55:00+05:30",
+   "video": "media/2026-11-19_ipo-basics.mp4",
+   "cover": "media/2026-11-19_ipo-basics_cover.jpg",
+   "caption": "IPO mein apply kar diya. Ab aage kya hota hai? 👇\n\n1️⃣ Price band: company range deti hai (example: ₹95–₹100)\n2️⃣ Lot size: shares lot mein milte hain (example: 150 × ₹100 = ₹15,000)\n3️⃣ UPI bid: paisa sirf block hota hai, abhi debit nahi\n4️⃣ Allotment: demand zyada ho to retail mein lottery jaisa system. Mile to debit, na mile to unblock\n5️⃣ Listing: SEBI rule se issue band hone ke 3 working days baad (T+3)\n\nListing price upar bhi khul sakta hai, neeche bhi. Koi guarantee nahi.\n\nKya aapne kabhi IPO apply kiya hai? Comment karo.\n\nSave karo aur follow karo.\n\nExample numbers only. Charts are illustrations, not real price data. Educational content only, not financial advice.\n\n#ipo #ipoindia #stockmarketindia #sharemarket #investingforbeginners #financialliteracy #hinglish #moneytips #stockmarketeducation #tradingbuddy",
+   "status": "posted",
+   "ig_media_id": "18100308455226405",
+   "permalink": "https://www.instagram.com/reel/Df6iqW2Bn3Y/",
+   "posted_at": "2026-11-19T07:27:27+0000"
+  },
+  {
+   "id": "2026-11-19_carousel_ipo-checklist",
+   "type": "carousel",
+   "due": "2026-11-19T17:55:00+05:30",
+   "images": [
+    "media/2026-11-19_c01.jpg",
+    "media/2026-11-19_c02.jpg",
+    "media/2026-11-19_c03.jpg",
+    "media/2026-11-19_c04.jpg",
+    "media/2026-11-19_c05.jpg",
+    "media/2026-11-19_c06.jpg"
+   ],
+   "caption": "Kisi bhi IPO mein apply se pehle ye 7 cheezein check karo 👇\n\n1️⃣ Business: company paisa kaise kamati hai?\n2️⃣ 3 saal ke numbers: revenue aur profit ka trend\n3️⃣ Use of funds: growth ya purana loan?\n4️⃣ Fresh issue vs OFS: paisa company ko ya purane shareholders ko?\n5️⃣ Valuation: same sector ki companies se P/E compare\n6️⃣ Risk factors: RHP ka risk section padho\n7️⃣ Promoter holding: IPO ke baad kitna hissa bachega?\n\nInmein se kaunsa aap skip karte the? Comment karo.\n\nSave karo aur follow karo, roz 1 money rule.\n\nEducational content only, not financial advice. No IPO recommendation.\n\n#ipo #ipoindia #stockmarketindia #sharemarket #investingforbeginners #financialliteracy #hinglish #moneytips #stockmarketeducation #tradingbuddy",
+   "status": "posted",
+   "ig_media_id": "18121192051770637",
+   "permalink": "https://www.instagram.com/p/Df7E_KEIF9L/",
+   "posted_at": "2026-11-19T17:56:51+05:30"
+  },
+  {
+   "id": "2026-11-19_myth-lakhs",
+   "type": "reel",
+   "due": "2026-11-19T19:55:00+05:30",
+   "video": "media/2026-11-19_myth-lakhs.mp4",
+   "cover": "media/2026-11-19_myth-lakhs_cover.jpg",
+   "caption": "Investing shuru karne ke liye lakhs chahiye? Myth hai 👇\n\n✅ Share market: sirf 1 share bhi khareed sakte ho\n✅ Mutual funds: kai funds ₹500 ya usse kam ki monthly SIP allow karte hain (har fund ka minimum check karo)\n✅ ₹500 × 12 mahine = ₹6,000 jama. Ye return nahi, aapka apna paisa hai\n✅ Income badhe to SIP badhao\n\nPehle emergency fund. Jo paisa jaldi chahiye, wo market mein mat daalo.\n\nYe Reel us dost ko bhejo jo lakhs ka wait kar raha hai.\n\nFollow karo, roz 1 money rule.\n\nExample numbers only. Charts are illustrations, not real price data. Educational content only, not financial advice.\n\n#investingforbeginners #sip #mutualfunds #stockmarketindia #personalfinance #financialliteracy #hinglish #moneytips #sharemarket #tradingbuddy",
+   "status": "posted",
+   "ig_media_id": "18503373976111565",
+   "permalink": "https://www.instagram.com/reel/Df7Spe5yM9v/",
+   "posted_at": "2026-11-19T19:56:42+05:30"
+  },
+  {
+   "id": "2026-11-19_story_pm",
+   "type": "story",
+   "due": "2026-11-19T20:55:00+05:30",
+   "image": "media/2026-11-19_story_pm.jpg",
+   "status": "posted",
+   "ig_media_id": "18211011967371213",
+   "permalink": "https://www.instagram.com/stories/truly.friendly/4033930010063645202",
+   "posted_at": "2026-11-19T20:56:01+05:30"
+  },
+  {
+   "id": "2026-11-20_story_am",
+   "type": "story",
+   "due": "2026-11-20T08:55:00+05:30",
+   "image": "media/2026-11-20_story_am.jpg",
+   "status": "pending"
+  },
+  {
+   "id": "2026-11-20_inflation-cpi",
+   "type": "reel",
+   "due": "2026-11-20T12:55:00+05:30",
+   "video": "media/2026-11-20_inflation-cpi.mp4",
+   "cover": "media/2026-11-20_inflation-cpi_cover.jpg",
+   "caption": "RBI ek number ko itna serious kyun leta hai? 👇\n\n📊 CPI = ek basket (khana, kiraya, fuel, kapde) ka price, har mahine\n💸 Example: 6% inflation par ₹100 ki cheez saal baad ₹106 ki\n🎯 RBI ka target: 4% inflation, 2% se 6% ki range\n🏦 Inflation zyada rahe to RBI repo rate badha sakta hai, loan EMI mehengi\n📈 Isliye CPI data aate hi market mein halchal\n\nSave karo aur follow karo, roz 1 money rule.\n\nExample numbers only. Charts are illustrations, not real price data. Educational content only, not financial advice.\n\n#inflation #cpi #rbi #stockmarketindia #sharemarket #financialliteracy #personalfinance #hinglish #moneytips #tradingbuddy",
+   "status": "pending"
+  },
+  {
+   "id": "2026-11-20_rule-of-72",
+   "type": "reel",
+   "due": "2026-11-20T19:55:00+05:30",
+   "video": "media/2026-11-20_rule-of-72.mp4",
+   "cover": "media/2026-11-20_rule-of-72_cover.jpg",
+   "caption": "Paisa double hone mein kitne saal? 10 second ka trick 🧮\n\nRule of 72: 72 ÷ saalana return % = lagbhag saal\n• 8% → 72 ÷ 8 = ~9 saal\n• 12% → 72 ÷ 12 = ~6 saal\n• 24% wala loan (na chukao to) → 72 ÷ 24 = ~3 saal mein double 😬\n\nYe sirf andaza hai, guarantee nahi. Asli returns upar neeche hote hain.\n\nComment karo: aapka paisa kitne saal mein double hoga? Save karo aur follow karo, roz 1 money rule.\n\nExample numbers only. Charts are illustrations, not real price data. Educational content only, not financial advice.\n\n#ruleof72 #compounding #investingforbeginners #personalfinance #financialliteracy #stockmarketindia #hinglish #moneytips #sharemarket #tradingbuddy",
+   "status": "pending"
+  },
+  {
+   "id": "2026-11-20_story_pm",
+   "type": "story",
+   "due": "2026-11-20T20:55:00+05:30",
+   "image": "media/2026-11-20_story_pm.jpg",
+   "status": "pending"
+  },
+  {
+   "id": "2026-11-21_story_am",
+   "type": "story",
+   "due": "2026-11-21T08:55:00+05:30",
+   "image": "media/2026-11-21_story_am.jpg",
+   "status": "pending"
+  },
+  {
+   "id": "2026-11-21_start-20-vs-30",
+   "type": "reel",
+   "due": "2026-11-21T12:55:00+05:30",
+   "video": "media/2026-11-21_start-20-vs-30.mp4",
+   "cover": "media/2026-11-21_start-20-vs-30_cover.jpg",
+   "caption": "Same ₹5,000 har mahine. 20 mein shuru vs 30 mein: gap kitna? ⏳\n\nExample (maana hua 10% saalana, 60 saal ki umar tak):\n• Age 20 se: kul ₹24 lakh lagaya → lagbhag ₹3.19 crore\n• Age 30 se: kul ₹18 lakh lagaya → lagbhag ₹1.14 crore\n\nSirf ₹6 lakh zyada lagaya, par gap ₹2 crore se zyada. Ye compounding aur time ki taakat hai.\n\nYe inflation aur tax se pehle ke numbers hain. 10% ek assumption hai, promise nahi; asli returns upar neeche hote hain.\n\nComment karo: aapne kis umar mein shuru kiya? Save karo aur follow karo, roz 1 money rule.\n\nExample numbers only. Charts are illustrations, not real price data. Educational content only, not financial advice.\n\n#compounding #sip #investingforbeginners #personalfinance #financialliteracy #stockmarketindia #hinglish #moneytips #mutualfunds #tradingbuddy",
+   "status": "pending"
+  },
+  {
+   "id": "2026-11-21_carousel_week-recap",
+   "type": "carousel",
+   "due": "2026-11-21T17:55:00+05:30",
+   "images": [
+    "media/2026-11-21_c01.jpg",
+    "media/2026-11-21_c02.jpg",
+    "media/2026-11-21_c03.jpg",
+    "media/2026-11-21_c04.jpg",
+    "media/2026-11-21_c05.jpg"
+   ],
+   "caption": "Is hafte ke 6 money rules, ek jagah 👇\n\n1. Emergency fund pehle\n2. Risk baanto, saara paisa ek stock mein nahi\n3. Stop-loss khareedne se pehle socho\n4. Pehle paper trade, phir chhota fixed risk\n5. Chhote se shuru karo (har fund ka minimum khud check karo)\n6. Jaldi shuru karo, compounding ko time chahiye\n\nInmein se kaunsa rule aap follow karte ho? Comment karo. Save karo aur follow karo, roz 1 money rule.\n\nEducational content only, not financial advice.\n\n#moneyrules #personalfinance #investingforbeginners #financialliteracy #stockmarketindia #hinglish #moneytips #sip #stoploss #tradingbuddy",
+   "status": "pending"
+  },
+  {
+   "id": "2026-11-21_expiry-day",
+   "type": "reel",
+   "due": "2026-11-21T19:55:00+05:30",
+   "video": "media/2026-11-21_expiry-day.mp4",
+   "cover": "media/2026-11-21_expiry-day_cover.jpg",
+   "caption": "Market kuch dino par itna upar neeche kyun karta hai? Ek bada reason: expiry 📅\n\n• F&O contracts ki last date = expiry\n• Abhi NSE par Nifty ka weekly expiry Tuesday, BSE par Sensex ka Thursday (chhutti ho to ek din pehle)\n• Traders positions band ya shift karte hain\n• Options ki time value expiry par tezi se ghatti hai\n• Hedging adjust hoti hai, isliye kabhi atakna, kabhi jhatka\n\nBeginners: jhatkon ke peeche mat bhaago. Pehle samjho, phir paper trade.\n\nComment karo: agla topic kya ho? Follow karo, roz 1 money rule.\n\nCharts are illustrations, not real price data. Educational content only, not financial advice.\n\n#expiryday #nifty #optionstrading #futuresandoptions #stockmarketindia #tradingforbeginners #hinglish #sharemarket #financialliteracy #tradingbuddy",
+   "status": "pending"
+  },
+  {
+   "id": "2026-11-21_story_pm",
+   "type": "story",
+   "due": "2026-11-21T20:55:00+05:30",
+   "image": "media/2026-11-21_story_pm.jpg",
+   "status": "pending"
+  }
+ ]
 }
