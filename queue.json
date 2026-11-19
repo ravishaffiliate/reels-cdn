@@ -227,7 +227,10 @@
       "type": "story",
       "due": "2026-11-19T20:55:00+05:30",
       "image": "media/2026-11-19_story_pm.jpg",
-      "status": "pending"
+      "status": "posted",
+      "ig_media_id": "18211011967371213",
+      "permalink": "https://www.instagram.com/stories/truly.friendly/4033930010063645202",
+      "posted_at": "2026-11-19T20:56:01+05:30"
     },
     {
       "id": "2026-11-20_story_am",
